@@ -40,12 +40,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "ukbharani@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
   linkedin: bharani-ujjaini-kempaiah
   google-scholar: 4wNMVukAAAAJ&hl
   github: bharaniuk
-  youtube: c/UCH_2RMTa7QFRAirVLyHcmWQ
+  youtube: c/BharaniUjjainiKempaiah
+  #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #  facebook: deanattali
 #  twitter: daattali
 #  patreon: DeanAttali
 #  medium: yourname
