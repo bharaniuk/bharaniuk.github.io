@@ -3,7 +3,5 @@ layout: home
 title: Hi, I'm Bharani!
 subtitle: Graduate Student | Carnegie Mellon University
 ---
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a graduate student in the Master of Computational Data Science (MCDS) program at the 
+Language Technologies Institute, School of Computer Science, Carnegie Mellon University.
