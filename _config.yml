@@ -15,9 +15,7 @@ author: Bharani Ujjaini Kempaiah
 
 navbar-links:
   Publications: "publications"
-  Projects:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Projects: "projects"
   Internships: "https://beautifuljekyll.com"
   CV: "https://beautifuljekyll.com"
   Contact: "https://beautifuljekyll.com"

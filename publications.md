@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 ---
 ## Publications
 - [A Deep Learning Approach for Speed Bump and Pothole Detection Using Sensor Data](https://link.springer.com/chapter/10.1007/978-981-16-1338-8_7) ![alt text](assets/img/speedbump.png){: width="100" height="100"}
