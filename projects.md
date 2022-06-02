@@ -1,11 +1,15 @@
 ---
 layout: page
 title: Projects
-share-description: This is a collection of some academic and personal projects I’ve worked on.
 ---
-## Educational videos
+## Twitter User Recommendation
+- Worked in a team of 3 to build an application for recommending similar Twitter users 
+- Designed an efficient and fault-tolerant web tier consisting of 3 microservices using Amazon EKS with managed node groups to handle high loads (~tens of thousands of RPS) under a constrained budget 
+- Performed ETL on a large Twitter data set (~1 TB) using Apache Spark on the Azure Databricks platform and deployed storage tier on an AWS RDS MySQL instance 
+- Automated service deployment using eksctl, Terraform and helm charts 
+- Ranked 5th in terms of performance/cost ratio in a live test spanning ~3 hrs 
 
-My [YouTube channel](http://youtube.com/c/daattali?sub_confirmation=1) contains educational videos on various R/Shiny/programming topics for all levels. New content is always added, so make sure to [subscribe](http://youtube.com/c/daattali?sub_confirmation=1) to know about new videos.
+
 
 ## Courses
 
