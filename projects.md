@@ -18,6 +18,17 @@ title: Projects
 - Processed ride requests in the form of audio and images leveraging a pipeline of cloud ML APIs such as Cloud Text-to-Speech, Cloud Speech-to-Text, Cloud NLP, Directions and AutoML Vision offered by GCP 
 - Deployed an end-to-end solution on Google App Engine to predict cab fare by combining input pipeline and trained model
 
+## Question Answering
+- Collaborated with a team of 3 to build a rule-based Question Answering system for Wikipedia articles 
+- Developed a hybrid answer generation pipeline consisting of question type identification, top candidate sentences extraction and syntactic rule-based answer formation using dependency parsing and POS tagging 
+- Performed question to declarative sentence conversion, coreference resolution, sentence vector similarity, named-entity recognition and lexical analysis to enhance fluency and conciseness of generated answers
+
+### Neural Machine Translation (NMT) from English to Hindi 				  
+
+- Employed supervised Encoder-Decoder architecture facilitated by an enhanced version of Bahdanau’s attention mechanism, Word2Vec and Vecmap
+- Final model attained a BLEU score of 35
+
+
 ## Web services
 
 - **[Rental Cashflow Calculator](http://cashflowcalc.com/)** - The quickest way to analyze your next investment rental property - written entirely in Shiny.
