@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Hi, I'm Bharani!
-subtitle: Graduate Student | Carnegie Mellon University
 ---
 I am a graduate student in the [Master of Computational Data Science (MCDS)](https://mcds.cs.cmu.edu/) program at the 
 [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/).
