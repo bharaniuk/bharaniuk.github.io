@@ -23,11 +23,30 @@ title: Projects
 - Developed a hybrid answer generation pipeline consisting of question type identification, top candidate sentences extraction and syntactic rule-based answer formation using dependency parsing and POS tagging 
 - Performed question to declarative sentence conversion, coreference resolution, sentence vector similarity, named-entity recognition and lexical analysis to enhance fluency and conciseness of generated answers
 
+## Question Answering System on SQuAD
+- Evaluated simple models using Jaccard Overlap, TF-IDF vectorizer, logistic regressing and distilbert-base-nli-stsb-mean-tokens from the SentenceTransformer library 
+- Fine-tuned pre-trained BERT using PyTorch and deployed final model to public endpoint on a Standard_NC6
+compute instance on Microsoft Azure
+
+## Rating Prediction for Amazon’s Product Reviews
+- Built a multi-class logistic regression model to predict product ratings from 100,000 reviews 
+- Data underwent cleaning, exploratory data analysis, feature construction using TfIdf Vectorizer, oversampling  to deal with class imbalance 
+- Final model achieved an accuracy of 71% and deployed to public endpoint on Microsoft Azure
+
 ### Neural Machine Translation (NMT) from English to Hindi 				  
 
-- Employed supervised Encoder-Decoder architecture facilitated by an enhanced version of Bahdanau’s attention mechanism, Word2Vec and Vecmap
+- Employed supervised __Encoder-Decoder__ architecture facilitated by an enhanced version of Bahdanau’s attention mechanism, Word2Vec and Vecmap
 - Final model attained a BLEU score of 35
 
+## Rideshare - A Cloud Based Application
+
+- Developed backend for a cloud-based car-pooling application with REST APIs and MySQL database 
+- Implemented load balancing on containerized application deployed on an Amazon AWS EC2 instance
+
+## Sports analytics with Hadoop
+- Performed analysis on an Indian Premier League dataset using MapReduce 
+- Devised algorithm for ranking players to identify most prolific batsman at each venue based on impact using
+PageRank, Spark and Streaming Spark libraries
 
 ## Web services
 
