@@ -1,20 +1,8 @@
 ---
 layout: page
 title: Projects
-subtitle: What's been eating away my free time
-share-title: Dean Attali | Projects
-share-description: This is a collection of some personal projects I’ve worked on, including many open-source software that's used by tens of thousands of people.
-comments: true
-carbonads: true
+share-description: This is a collection of some academic and personal projects I’ve worked on.
 ---
-
-This is a collection of some personal projects I've worked on that are easily viewable online. Anything that is not browser-friendly will not make the cut :(
-
-I'm also [**available for consulting**](/shiny), so feel free to [contact me](/contact) if you'd like to work together. 
-
-
----
-
 ## Educational videos
 
 My [YouTube channel](http://youtube.com/c/daattali?sub_confirmation=1) contains educational videos on various R/Shiny/programming topics for all levels. New content is always added, so make sure to [subscribe](http://youtube.com/c/daattali?sub_confirmation=1) to know about new videos.
