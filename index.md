@@ -3,7 +3,7 @@ layout: home
 title: Hi, I'm Bharani!
 subtitle: Graduate Student | Carnegie Mellon University
 ---
-I am a graduate student in the ! [Master of Computational Data Science (MCDS)] (https://mcds.cs.cmu.edu/) program at the 
+I am a graduate student in the [Master of Computational Data Science] (https://mcds.cs.cmu.edu/) program at the 
 Language Technologies Institute, School of Computer Science, Carnegie Mellon University.
 I am currently working as a Data Science Intern at Cognistx, Pittsburgh on their SQUARE product.
 Prior to joining CMU, I completed my under-graduation from PES University, India. 
