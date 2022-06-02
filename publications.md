@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: page
+title: Publications
 ---
-## Publications
+
+
 [A Deep Learning Approach for Speed Bump and Pothole Detection Using Sensor Data](https://link.springer.com/chapter/10.1007/978-981-16-1338-8_7) 
 
 The proposed system, SPD [Speed Bump and Pothole Detection], aims at detecting and notifying a user of upcoming road anomalies such as speed bumps and potholes in real time. The system collects live sensor data from a detection hardware module which comprises a Raspberry Pi, GPS module and a 3-axis accelerometer. This sensor data collected simultaneously from multiple users is then pushed on to the Cloud. It is then pre-processed to get the required sequences of data points and then fed to a 3-class classifier which uses a Recurrent Neural Network Model (Long Short-term Memory with Adaptive moment estimation [Adam] optimizer). The system classifies the given sequence of data points as ROAD, SPEED BUMP or POTHOLE. The system was validated using 20 km of real-world data and achieved an average accuracy of 80%.
