@@ -2,7 +2,9 @@
 layout: page
 title: Projects
 ---
+
 ## Twitter User Recommendation
+
 - Worked in a team of 3 to build an application for recommending similar Twitter users 
 - Designed an efficient and fault-tolerant web tier consisting of 3 microservices using Amazon EKS with managed node groups to handle high loads (~tens of thousands of RPS) under a constrained budget 
 - Performed ETL on a large Twitter data set (~1 TB) using Apache Spark on the Azure Databricks platform and deployed storage tier on an AWS RDS MySQL instance 
@@ -11,9 +13,10 @@ title: Projects
 
 
 
-## Courses
-
-I have an interactive, online video course ["Case Studies in Shiny"](https://www.datacamp.com/courses/case-studies-building-web-applications-with-shiny-in-r) hosted on DataCamp. It's designed to give you practice building Shiny apps for real-life scenarios, while also helping your learn some advanced Shiny concepts. At the time of writing, 2.5 years after it was released, this course is the __#2 best-rated course on DataCamp__.
+## Machine Learning on the Cloud
+- Trained and deployed a machine learning model (XGBoost) on the Google AI Platform to predict cab fares in NYC and performed hyperparameter tuning using HyperTune to improve accuracy of model 
+- Processed ride requests in the form of audio and images leveraging a pipeline of cloud ML APIs such as Cloud Text-to-Speech, Cloud Speech-to-Text, Cloud NLP, Directions and AutoML Vision offered by GCP 
+- Deployed an end-to-end solution on Google App Engine to predict cab fare by combining input pipeline and trained model
 
 ## Web services
 
