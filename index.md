@@ -10,7 +10,7 @@ Prior to joining CMU, I completed my under-graduation from [PES University](http
 During this time, I was a Research Intern at the Center for Cloud Computing and Big Data where I majorly worked on 
 the characterizing the performance sensitivity of OS parameters in Microservice environments.
 
-My interests lie in leveraging the power of NLP, ML and Data Science to tap into the vast potential that large-scale data has to offer 
+My interests lie in leveraging the power of NLP, ML and Data Science in general to tap into the vast potential that data has to offer 
 to revolutionize business, science, and the quality of life! 
 I enjoy working closely with others and this has instilled in me a zeal for teamwork and collaboration.
 I am a curious problem solver who aims to build technologies that positively impacts the lives of people around the world!
