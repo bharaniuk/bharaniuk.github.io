@@ -17,7 +17,7 @@ navbar-links:
   Publications: "publications"
   Projects: "projects"
   Internships: "https://beautifuljekyll.com"
-  CV: "/docs/Bharani_UjjainiKempaiah_Resume.pdf"
+  CV: "/assets/pdf/Bharani_UjjainiKempaiah_Resume.pdf"
   Contact: "https://beautifuljekyll.com"
 
 # --- Logo --- #
