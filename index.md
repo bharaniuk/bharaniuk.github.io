@@ -11,5 +11,9 @@ During this time, I was a Research Intern at the Center for Cloud Computing and 
 the characterizing the performance sensitivity of OS parameters in Microservice environments.
 
 My interests lie in leveraging the power of NLP, ML and Data Science to tap into the vast potential that large-scale data has to offer 
-to revolutionize business, science, and the quality of life!
+to revolutionize business, science, and the quality of life! 
+I enjoy working closely with others and this has instilled in me a zeal for teamwork and collaboration.
+I am a curious problem solver who aims to build technologies that positively impacts the lives of people around the world!
+
+
 
