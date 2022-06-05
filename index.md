@@ -12,9 +12,7 @@ I will be graduating from CMU in December 2022, and I am actively looking for fu
 and Software Engineering starting early 2023.
 
 My interests lie in leveraging the power of NLP, ML and Data Science in general to tap into the vast potential that data has to offer 
-to revolutionize business, science, and the quality of life! 
-Working closely with others has instilled in me a zeal for teamwork and collaboration.
-I am a curious problem solver who aims to build technologies that positively impacts the lives of people around the world!
+to revolutionize business, science, and the quality of life by building technologies that positively impacts the lives of people around the world!
 
 
 
