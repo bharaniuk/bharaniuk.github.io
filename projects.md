@@ -9,9 +9,8 @@ title: Projects
 
 
 
-
-<details><summary><b>Twitter User Recommendation</b></summary>
-
+### Twitter User Recommendation
+<details><summary></summary>
 - Worked in a team of 3 to build an application that recommends similar Twitter users 
 - Designed an efficient and fault-tolerant web tier consisting of 3 microservices using Amazon EKS with managed node groups to handle high loads (~tens of thousands of RPS) under a constrained budget 
 - Performed ETL on a large Twitter data set (~1 TB) using Apache Spark on the Azure Databricks platform and deployed storage tier on an AWS RDS MySQL instance 
