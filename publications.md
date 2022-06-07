@@ -3,8 +3,9 @@ layout: page
 title: Publications
 ---
 
-
-[A Deep Learning Approach for Speed Bump and Pothole Detection Using Sensor Data](https://link.springer.com/chapter/10.1007/978-981-16-1338-8_7) 
+[A Deep Learning Approach for Speed Bump and Pothole Detection Using Sensor Data](https://link.springer.com/chapter/10.1007/978-981-16-1338-8_7)
+Bharani Ujjaini Kempaiah, Ruben John Mampilli and Goutham K.S.  
+In proceedings of 6th International Conference on Emerging Research in Computing, Information, Communication and Applications (ERCICA 2020)
 
 [Energy efficient VM scheduling in Reservation supported Cloud Data Centers under availability constraints](https://ieeexplore.ieee.org/abstract/document/9498421)
 
