@@ -2,7 +2,9 @@
 layout: page
 title: Projects
 ---
+
 ###Twitter Analytics Web Service
+
 <details><summary>High-performance multi-tier web service on the cloud</summary>
 
 - Worked in a team of 3 to build an application that recommends similar Twitter users 
