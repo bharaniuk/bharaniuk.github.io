@@ -38,9 +38,13 @@ title: Projects
 </details>
 
 ### Question Answering System on SQuAD
-- Evaluated simple models using Jaccard Overlap, TF-IDF vectorizer, logistic regressing and distilbert-base-nli-stsb-mean-tokens from the SentenceTransformer library 
-- Fine-tuned pre-trained BERT using PyTorch and deployed final model to public endpoint on a Standard_NC6
-compute instance on Microsoft Azure
+
+<details><summary><a href="https://youtu.be/Ywuq0DIkklM">QA using Machine Learning algorithms</a></summary>
+<ul>
+<li>Developed NLP processing pipeline to train and evaluate multiple machine learning models using NLTK library for cleaning and feature extraction of 100000 questions and context paragraphs</li>
+<li>Fine-tuned pre-trained BERT model using PyTorch and deployed final model to public endpoint through Microsoft Azure Machine Learning Studio</li>
+</ul>
+</details>
 
 ### Rating Prediction for Amazon’s Product Reviews
 - Built a multi-class logistic regression model to predict product ratings from 100,000 reviews 
