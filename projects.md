@@ -2,16 +2,8 @@
 layout: page
 title: Projects
 ---
-
-
-
-
-
-
-
-### Twitter User Recommendation 
-#### Carnegie Mellon University | August 2021
-<details><summary>Details</summary>
+###Twitter Analytics Web Service
+<details><summary>High-performance multi-tier web service on the cloud</summary>
 
 - Worked in a team of 3 to build an application that recommends similar Twitter users 
 - Designed an efficient and fault-tolerant web tier consisting of 3 microservices using Amazon EKS with managed node groups to handle high loads (~tens of thousands of RPS) under a constrained budget 
