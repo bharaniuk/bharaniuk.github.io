@@ -28,9 +28,14 @@ title: Projects
 
 
 ### Question Answering
-- Collaborated with a team of 3 to build a rule-based Question Answering system for Wikipedia articles 
-- Developed a hybrid answer generation pipeline consisting of question type identification, top candidate sentences extraction and syntactic rule-based answer formation using dependency parsing and POS tagging 
-- Performed question to declarative sentence conversion, coreference resolution, sentence vector similarity, named-entity recognition and lexical analysis to enhance fluency and conciseness of generated answers
+
+<details><summary><a href="https://youtu.be/Ywuq0DIkklM">Syntactic rule-based QA system</a></summary>
+<ul>
+<li>Collaborated with a team of 3 to build a rule-based Question Answering system for Wikipedia articles</li>
+<li>Developed a hybrid answer generation pipeline consisting of question type identification, top candidate sentences extraction and syntactic rule-based answer formation using dependency parsing and POS tagging</li>
+<li>Performed question to declarative sentence conversion, coreference resolution, sentence vector similarity, named-entity recognition and lexical analysis to enhance fluency and conciseness of generated answers</li>
+</ul>
+</details>
 
 ### Question Answering System on SQuAD
 - Evaluated simple models using Jaccard Overlap, TF-IDF vectorizer, logistic regressing and distilbert-base-nli-stsb-mean-tokens from the SentenceTransformer library 
