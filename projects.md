@@ -39,7 +39,7 @@ title: Projects
 
 ### Question Answering System on SQuAD
 
-<details><summary><a href="https://youtu.be/Ywuq0DIkklM">QA using Machine Learning algorithms</a></summary>
+<details><summary>QA using Machine Learning algorithms</summary>
 <ul>
 <li>Developed NLP processing pipeline to train and evaluate multiple machine learning models using NLTK library for cleaning and feature extraction of 100000 questions and context paragraphs</li>
 <li>Fine-tuned pre-trained BERT model using PyTorch and deployed final model to public endpoint through Microsoft Azure Machine Learning Studio</li>
@@ -47,9 +47,14 @@ title: Projects
 </details>
 
 ### Rating Prediction for Amazon’s Product Reviews
-- Built a multi-class logistic regression model to predict product ratings from 100,000 reviews 
-- Data underwent cleaning, exploratory data analysis, feature construction using TfIdf Vectorizer, oversampling  to deal with class imbalance 
-- Final model achieved an accuracy of 71% and deployed to public endpoint on Microsoft Azure
+
+<details><summary>Logistic regression to predict product ratings</summary>
+<ul>
+<li>Built a multi-class logistic regression model to predict product ratings from 100,000 reviews</li>
+<li>Data underwent cleaning, exploratory data analysis, feature construction using TfIdf Vectorizer, oversampling  to deal with class imbalance</li>
+<li>Final model achieved an accuracy of 71% and deployed to public endpoint on Microsoft Azure</li>
+</ul>
+</details>
 
 ### Neural Machine Translation (NMT) from English to Hindi 				  
 
