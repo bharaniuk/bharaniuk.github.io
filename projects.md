@@ -17,7 +17,7 @@ title: Projects
 
 <details><summary>ASR for Malayalam</summary>
 <ul>
-<li>Contributed to the espnet open source toolkit by implementing Malayalam ASR with only around 6 hours of parallel speech-text data</li>
+<li>Contributed to the <a href="https://github.com/espnet/espnet">espnet</a> open source toolkit by implementing Malayalam ASR with only around 6 hours of parallel speech-text data</li>
 <li>Achieved WER and CER of 39.2 and 10.4 respectively for a conformer base model</li>
 <li>Improved the WER and CER of the base model by 9.2% and 13.4% respectively by implementing a learnable linear fusion of spectrum based and SSL features</li>
 <li>Successfully <a href="https://github.com/espnet/espnet/pull/4173">merged</a> ASR recipe into the espnet open-source toolkit</li>
