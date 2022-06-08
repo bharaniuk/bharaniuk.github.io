@@ -9,7 +9,7 @@ title: Projects
 <ul>
 <li>Adapted back-translation style data augmentation technique to speech processing by leveraging ASR and TTS outputs to improve each other’s performance iteratively</li>
 <li>Implemented a conformer-based ASR model with linear fusion of HuBERT and spectrum-based features. TTS model was a a combination of Glow-TTS and Hifi-GAN</li>
-<li>Successfully merged ASR recipe into the espnet open-source toolkit</li>
+<li>Successfully <a href="https://github.com/espnet/espnet/pull/4173">merged</a> ASR recipe into the espnet open-source toolkit</li>
 <li>Achieved up to 3.21% and 6.52% reduction in WER and CER respectively for ASR</li>
 </ul>
 </details>
