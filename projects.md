@@ -17,9 +17,15 @@ title: Projects
 
 
 ### Machine Learning on the Cloud
-- Trained and deployed a machine learning model (XGBoost) on the Google AI Platform to predict cab fares in NYC and performed hyperparameter tuning using HyperTune to improve accuracy of model 
-- Processed ride requests in the form of audio and images leveraging a pipeline of cloud ML APIs such as Cloud Text-to-Speech, Cloud Speech-to-Text, Cloud NLP, Directions and AutoML Vision offered by GCP 
-- Deployed an end-to-end solution on Google App Engine to predict cab fare by combining input pipeline and trained model
+
+<details><summary>Trained and deployed XGBoost on Google AI Platform</summary>
+<ul>
+<li>Trained and deployed a machine learning model (XGBoost) on the Google AI Platform to predict cab fares in NYC and performed hyperparameter tuning using HyperTune to improve accuracy of model</li>
+<li>Processed ride requests in the form of audio and images leveraging a pipeline of cloud ML APIs such as Cloud Text-to-Speech, Cloud Speech-to-Text, Cloud NLP, Directions and AutoML Vision offered by GCP</li> 
+<li>Deployed an end-to-end solution on Google App Engine to predict cab fare by combining input pipeline and trained model</li>
+</ul>
+</details>
+
 
 ### Question Answering
 - Collaborated with a team of 3 to build a rule-based Question Answering system for Wikipedia articles 
