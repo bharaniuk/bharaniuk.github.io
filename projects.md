@@ -56,17 +56,30 @@ title: Projects
 </ul>
 </details>
 
-### Neural Machine Translation (NMT) from English to Hindi 				  
+### Neural Machine Translation (NMT) from English to Hindi
 
-- Employed supervised __Encoder-Decoder__ architecture facilitated by an enhanced version of Bahdanau’s attention mechanism, Word2Vec and Vecmap
-- Final model attained a BLEU score of 35
+<details><summary>Seq2Seq model for NMT</summary>
+<ul>
+<li>Employed supervised __Encoder-Decoder__ architecture facilitated by an enhanced version of Bahdanau’s attention mechanism, Word2Vec and Vecmap</li>
+<li>Final model attained a BLEU score of 35</li>
+</ul>
+</details>
 
 ### Rideshare - A Cloud Based Application
 
-- Developed backend for a cloud-based car-pooling application with REST APIs and MySQL database 
-- Implemented load balancing on containerized application deployed on an Amazon AWS EC2 instance
+<details><summary>Uber-like cab search application</summary>
+<ul>
+<li>Developed backend for a cloud-based car-pooling application with REST APIs and MySQL database</li>
+<li>Implemented load balancing on containerized application deployed on an Amazon AWS EC2 instance</li>
+</ul>
+</details>
 
 ### Sports analytics with Hadoop
-- Performed analysis on an Indian Premier League dataset using MapReduce 
-- Devised algorithm for ranking players to identify most prolific batsman at each venue based on impact using
-PageRank, Spark and Streaming Spark libraries
+
+<details><summary>PageRank on Hadoop</summary>
+<ul>
+<li>Performed analysis on an Indian Premier League dataset using MapReduce </li>
+<li>Devised algorithm for ranking players to identify most prolific batsman at each venue based on impact using
+PageRank, Spark and Streaming Spark libraries</li>
+</ul>
+</details>
