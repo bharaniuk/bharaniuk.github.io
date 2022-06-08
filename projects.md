@@ -8,8 +8,8 @@ title: Projects
 <details><summary><a href="/assets/pdf/11737 Poster.pdf">Malayalam ASR and TTS</a></summary>
 <ul>
 <li>Adapted back-translation style data augmentation technique to speech processing by leveraging ASR and TTS outputs to improve each other’s performance iteratively</li>
-<li>Implemented a conformer-based ASR model with linear fusion of HuBERT and spectrum-based features. TTS model was a a combination of Glow-TTS and Hifi-GAN</li>
-<li>Achieved up to 3.21% and 6.52% reduction in WER and CER respectively for ASR</li>
+<li>Implemented a conformer-based ASR model with linear fusion of HuBERT and spectrum-based features. TTS model was a combination of Glow-TTS and Hifi-GAN</li>
+<li>Achieved up to 3.21% and 6.52% reduction in WER and CER respectively for ASR and a 3.3% improvement in MCD for TTS</li>
 </ul>
 </details>
 
@@ -26,10 +26,11 @@ title: Projects
 
 ### Multilingual Translation
 
-<details><summary>Low Resource NMT</summary>
+<details><summary>Low resource NMT for Azerbaijani and Belarus to and from English</summary>
 <ul>
-<li>Explored bilingual and multilingual models for low resource NMT</li>
-<li>Increased the BLEU score by up to 3 points by implementing back translation and transfer learning</li>
+<li>Improved baseline bilingual and multilingual models for low resource NMT with fairseq as the MT framework on top of PyTorch</li>
+<li>Implemented multiple methods such as data augmentation via back translation and cross-lingual transfer learning to improve multilingual transfer</li>
+<li>Achieved an increase in BLEU score by up to 3 points</li>
 <li>Studied the effect of vocabulary size, and tokenization algorithms on the performance of NMT</li>
 </ul>
 </details>
@@ -38,10 +39,12 @@ title: Projects
 
 <details><summary>Bi-LSTM based POS Tagging</summary>
 <ul>
-<li>Enhanced the performance of a baseline bi-LSTM model for the task of POS tagging by using multilingual pre-trained BERT embeddings and using a CRF layer</li>
-<li>Carried out extensive analysis to understand variation in performance across language families, typology and hyper parameter tuning</li>
+<li>Enhanced the performance of a baseline bi-LSTM model written in PyTorch for the task of POS tagging by utilizing pre-trained multilingual BERT embeddings</li>
+<li>Gained 20.6% and 3% in accuracy for Tamil and English respectively</li>
+<li>Performed extensive analysis to understand variation in performance across language families, typology and hyper-parameter</li>
 </ul>
 </details>
+
 
 ### Twitter Analytics Web Service
 
