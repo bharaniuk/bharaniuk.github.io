@@ -24,6 +24,25 @@ title: Projects
 </ul>
 </details>
 
+### Multilingual Translation
+
+<details><summary>Low Resource NMT</summary>
+<ul>
+<li>Explored bilingual and multilingual models for low resource NMT</li>
+<li>Increased the BLEU score by up to 3 points by implementing back translation and transfer learning</li>
+<li>Studied the effect of vocabulary size, and tokenization algorithms on the performance of NMT</li>
+</ul>
+</details>
+
+### Multilingual Sequence labeling
+
+<details><summary>Bi-LSTM based POS Tagging</summary>
+<ul>
+<li>Enhanced the performance of a baseline bi-LSTM model for the task of POS tagging by using multilingual pre-trained BERT embeddings and using a CRF layer</li>
+<li>Carried out extensive analysis to understand variation in performance across language families, typology and hyper parameter tuning</li>
+</ul>
+</details>
+
 ### Twitter Analytics Web Service
 
 <details><summary>High-performance multi-tier web service on the cloud</summary>
