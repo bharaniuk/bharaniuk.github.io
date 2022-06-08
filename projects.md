@@ -6,12 +6,13 @@ title: Projects
 ### Twitter Analytics Web Service
 
 <details><summary>High-performance multi-tier web service on the cloud</summary>
-
-* Worked in a team of 3 to build an application that recommends similar Twitter users  
-* Designed an efficient and fault-tolerant web tier consisting of 3 microservices using Amazon EKS with managed node groups to handle high loads (~tens of thousands of RPS) under a constrained budget  
-* Performed ETL on a large Twitter data set (~1 TB) using Apache Spark on the Azure Databricks platform and deployed storage tier on an AWS RDS MySQL instance   
-* Automated service deployment using eksctl, Terraform and helm charts   
-* Ranked 5th in terms of performance/cost ratio in a live test spanning ~3 hrs   
+<ul>
+<li>Worked in a team of 3 to build an application that recommends similar Twitter users </li>
+<li>Designed an efficient and fault-tolerant web tier consisting of 3 microservices using Amazon EKS with managed node groups to handle high loads (~tens of thousands of RPS) under a constrained budget</li>
+<li>Performed ETL on a large Twitter data set (~1 TB) using Apache Spark on the Azure Databricks platform and deployed storage tier on an AWS RDS MySQL instance</li>
+<li>Automated service deployment using eksctl, Terraform and helm charts</li>
+<li>Ranked 5th in terms of performance/cost ratio in a live test spanning ~3 hrs</li>
+</ul>
 </details>
 
 
