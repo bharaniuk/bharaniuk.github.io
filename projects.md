@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-### <span style=“color:gray;”>Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS</span> \[[Project Poster](/assets/pdf/11737 Poster.pdf)\]
+<h3><span style=“color:gray;”>Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS</span> <a href="/assets/pdf/11737 Poster.pdf">[Project Poster]</a></h3>
 
 <details><summary>Novel iterative back-translation style approach to augment data for Automatic Speech Recognition (ASR) and Text to Speech (TTS)
 for Malayalam, a truly low resource language</summary>
