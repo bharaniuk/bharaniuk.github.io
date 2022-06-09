@@ -3,9 +3,9 @@ layout: page
 title: Projects
 ---
 
-### Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS
+### Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS [Poster](/assets/pdf/11737 Poster.pdf)
 
-<details><summary><a href="/assets/pdf/11737 Poster.pdf">Malayalam ASR and TTS</a></summary>
+<details><summary>Malayalam ASR and TTS</summary>
 <ul>
 <li>Adapted back-translation style data augmentation technique to speech processing by leveraging ASR and TTS outputs to improve each other’s performance iteratively</li>
 <li>Implemented a conformer-based ASR model with linear fusion of HuBERT and spectrum-based features. TTS model was a combination of Glow-TTS and Hifi-GAN</li>
