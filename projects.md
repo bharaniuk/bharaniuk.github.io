@@ -79,9 +79,9 @@ title: Projects
 </details>
 
 
-### Question Answering
+### Question Answering \[[Project Video](https://youtu.be/Ywuq0DIkklM)\]
 
-<details><summary><a href="https://youtu.be/Ywuq0DIkklM">Syntactic rule-based QA system</a></summary>
+<details><summary>Syntactic rule-based QA system</summary>
 <ul>
 <li>Collaborated with a team of 3 to build a rule-based Question Answering system for Wikipedia articles</li>
 <li>Developed a hybrid answer generation pipeline consisting of question type identification, top candidate sentences extraction and syntactic rule-based answer formation using dependency parsing and POS tagging</li>
