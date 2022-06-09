@@ -4,7 +4,7 @@ title: Projects
 ---
 
 ### Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS
-#### [Link to Project Poster](/assets/pdf/11737 Poster.pdf)
+[Project Poster](/assets/pdf/11737 Poster.pdf)
 
 <details><summary>Malayalam ASR and TTS</summary>
 <ul>
