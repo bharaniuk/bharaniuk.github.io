@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-### Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS \[[Project Poster](/assets/pdf/11737 Poster.pdf)\], 11-737
+### Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS \[[Project Poster](/assets/pdf/11737 Poster.pdf)\], [11-737 | CMU](http://phontron.com/class/multiling2022/)
 
 <details><summary>Malayalam ASR and TTS</summary>
 <ul>
