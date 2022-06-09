@@ -38,11 +38,26 @@ for Malayalam, a truly low resource language</summary>
 </details>
 
 ### <span style="color:grey;"> Multilingual Sequence labeling </span>
+
 <details><summary>Bi-LSTM based POS Tagging with mBERT and Conditional Random Fields</summary>
 <ul>
 <li>Enhanced the performance of a baseline bi-LSTM model written in PyTorch for the task of POS tagging by utilizing pre-trained multilingual BERT embeddings</li>
 <li>Gained <b>20.6%</b> and <b>3%</b> in accuracy for Tamil and English respectively</li>
 <li>Performed extensive analysis to understand variation in performance across language families, typology and hyper-parameter</li>
+</ul>
+</details>
+
+### <span style="color:grey;">Power plant Machine Learning Pipeline</span>
+
+<details><summary>End-to-end pipeline performing ETL, EDA and applied different machine learning algorithms to solve 
+a supervised regression problem on a real-world dataset of sensor readings from a natural gas-fired power generation 
+plant to accurately predict power output given a set of environmental readings
+</summary>
+<ul>
+<li>Performed ETL using PySpark and PySparkSQL</li>
+<li>Built ML pipeline for Linear Regression and Random Forest learners using Spark ML pipeline API</li>
+<li>Model tuning and evaluation using CrossValidator and ParamGridBuilder APIs resulted in the best model improving base model RMSE from 
+4.56 to 3.39 with coefficient of determination of 0.96</li>
 </ul>
 </details>
 
