@@ -3,23 +3,25 @@ layout: page
 title: Projects
 ---
 
-### Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS \[[Project Poster](/assets/pdf/11737 Poster.pdf)\], [11-737 | CMU](http://phontron.com/class/multiling2022/)
+### Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS \[[Project Poster](/assets/pdf/11737 Poster.pdf)\]
 
-<details><summary>Malayalam ASR and TTS</summary>
+<details><summary>Novel iterative back-translation style approach to augment data for Automatic Speech Recognition (ASR) and Text to Speech (TTS)
+for a truly low resource language Malayalam</summary>
 <ul>
 <li>Adapted back-translation style data augmentation technique to speech processing by leveraging ASR and TTS outputs to improve each other’s performance iteratively</li>
+<li>Output of ASR used to create a pseudo-parallel corpus as input to fine-tune TTS and vice versa</li>
 <li>Implemented a conformer-based ASR model with linear fusion of HuBERT and spectrum-based features. TTS model was a combination of Glow-TTS and Hifi-GAN</li>
-<li>Achieved up to 3.21% and 6.52% reduction in WER and CER respectively for ASR and a 3.3% improvement in MCD for TTS</li>
+<li>Achieved up to <b>6.91%</b> and <b>10.87%</b> reduction in Word Error Rate (WER) and Character Error Rate (CER) respectively for ASR and a 2.91% improvement in Mel-cepstral distortion (MCD) for TTS</li>
 </ul>
 </details>
 
 ### Multilingual Speech Recognition \[[Code](https://github.com/espnet/espnet/tree/master/egs2/ml_openslr63/asr1)\]
 
-<details><summary>ASR for Malayalam</summary>
+<details><summary>Automatic Speech Recognition for Malayalam on <b>espnet</b></summary>
 <ul>
 <li>Contributed to the <a href="https://github.com/espnet/espnet">espnet</a> open source toolkit by implementing Malayalam ASR with only around 6 hours of parallel speech-text data</li>
 <li>Achieved WER and CER of 39.2 and 10.4 respectively for a conformer base model</li>
-<li>Improved the WER and CER of the base model by 9.2% and 13.4% respectively by implementing a learnable linear fusion of spectrum based and SSL features</li>
+<li>Improved the WER and CER of the base model by 9.2% and 13.4% respectively by implementing a learnable linear fusion of spectrum based and HuBERT self-supervised learning features</li>
 <li>Successfully <a href="https://github.com/espnet/espnet/pull/4173">merged</a> ASR recipe into the espnet open-source toolkit</li>
 </ul>
 </details>
