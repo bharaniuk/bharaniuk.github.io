@@ -37,7 +37,6 @@ title: Projects
 </details>
 
 ### Multilingual Sequence labeling
-[CODE](https://github.com/bharaniuk/final-project-dunder-mifflin-paper-company)
 <details><summary>Bi-LSTM based POS Tagging</summary>
 <ul>
 <li>Enhanced the performance of a baseline bi-LSTM model written in PyTorch for the task of POS tagging by utilizing pre-trained multilingual BERT embeddings</li>
@@ -47,7 +46,7 @@ title: Projects
 </details>
 
 ### COVID-19 Data Dashboard
-
+[CODE](https://github.com/bharaniuk/final-project-dunder-mifflin-paper-company)
 <details><summary>Streamlit web-app powered by Altair and Python</summary>
 <ul>
 <li>An interactive web application that analyzes how different states in the US approached the COVID-19 pandemic</li>
