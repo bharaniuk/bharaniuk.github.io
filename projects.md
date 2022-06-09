@@ -32,7 +32,7 @@ for Malayalam, a truly low resource language</summary>
 <ul>
 <li>Improved baseline bilingual and multilingual models for low resource NMT with fairseq as the MT framework on top of PyTorch</li>
 <li>Implemented multiple methods such as data augmentation via back translation and cross-lingual transfer learning to improve multilingual transfer</li>
-<li>Achieved a 3 point increase in BLEU score</li>
+<li>Achieved a <b>3</b> point increase in BLEU score</li>
 <li>Studied the effect of vocabulary size, and tokenization algorithms on the performance of NMT</li>
 </ul>
 </details>
@@ -41,7 +41,7 @@ for Malayalam, a truly low resource language</summary>
 <details><summary>Bi-LSTM based POS Tagging with mBERT and Conditional Random Fields</summary>
 <ul>
 <li>Enhanced the performance of a baseline bi-LSTM model written in PyTorch for the task of POS tagging by utilizing pre-trained multilingual BERT embeddings</li>
-<li>Gained 20.6% and 3% in accuracy for Tamil and English respectively</li>
+<li>Gained <b>20.6%</b> and <b>3%</b> in accuracy for Tamil and English respectively</li>
 <li>Performed extensive analysis to understand variation in performance across language families, typology and hyper-parameter</li>
 </ul>
 </details>
@@ -59,7 +59,7 @@ for Malayalam, a truly low resource language</summary>
 
 ### Twitter Analytics Web Service
 
-<details><summary>Fully managed high-performance multi-tier web service with Amazon EKS and RDS on the cloud. 
+<details><summary>Fully managed high-performance multi-tier web service with Amazon EKS and RDS. 
 Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
 <ul>
 <li>Worked in a team of 3 to build a Vertx-based web application that recommends similar Twitter users </li>
