@@ -3,8 +3,7 @@ layout: page
 title: Projects
 ---
 
-### Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS
-[Project Poster](/assets/pdf/11737 Poster.pdf)
+### Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS \[[Project Poster](/assets/pdf/11737 Poster.pdf)\]
 
 <details><summary>Malayalam ASR and TTS</summary>
 <ul>
@@ -45,8 +44,8 @@ title: Projects
 </ul>
 </details>
 
-### COVID-19 Data Dashboard
-[CODE](https://github.com/bharaniuk/final-project-dunder-mifflin-paper-company)
+### COVID-19 Data Dashboard \[[Code](https://github.com/bharaniuk/final-project-dunder-mifflin-paper-company)\]
+
 <details><summary>Streamlit web-app powered by Altair and Python</summary>
 <ul>
 <li>An interactive web application that analyzes how different states in the US approached the COVID-19 pandemic</li>
