@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-<h3><span style="color:grey;">Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS</span> <a href="/assets/pdf/11737 Poster.pdf">[Project Poster]</a></h3>
+### <span style="color:grey;">Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS</span> \[[Project Poster](/assets/pdf/11737 Poster.pdf)\]
 
 <details><summary>Novel iterative back-translation style approach to augment data for Automatic Speech Recognition (ASR) and Text to Speech (TTS)
 for Malayalam, a truly low resource language</summary>
@@ -26,7 +26,7 @@ for Malayalam, a truly low resource language</summary>
 </ul>
 </details>
 
-### Multilingual Translation
+### <span style="color:grey;"> Multilingual Translation </span>
 
 <details><summary>NMT for low resource languages Azerbaijani and Belarus, to and from English</summary>
 <ul>
@@ -37,7 +37,7 @@ for Malayalam, a truly low resource language</summary>
 </ul>
 </details>
 
-### Multilingual Sequence labeling
+### <span style="color:grey;"> Multilingual Sequence labeling </span>
 <details><summary>Bi-LSTM based POS Tagging with mBERT and Conditional Random Fields</summary>
 <ul>
 <li>Enhanced the performance of a baseline bi-LSTM model written in PyTorch for the task of POS tagging by utilizing pre-trained multilingual BERT embeddings</li>
@@ -46,7 +46,7 @@ for Malayalam, a truly low resource language</summary>
 </ul>
 </details>
 
-### COVID-19 Data Dashboard \[[Code](https://github.com/bharaniuk/final-project-dunder-mifflin-paper-company)\]
+### <span style="color:grey;"> COVID-19 Data Dashboard </span> \[[Code](https://github.com/bharaniuk/final-project-dunder-mifflin-paper-company)\]
 
 <details><summary>Streamlit web-app powered by Altair and Python</summary>
 <ul>
@@ -57,7 +57,7 @@ for Malayalam, a truly low resource language</summary>
 </details>
 
 
-### Twitter Analytics Web Service
+### <span style="color:grey;">Twitter Analytics Web Service</span>
 
 <details><summary>Fully managed high-performance multi-tier web service with Amazon EKS and RDS. 
 Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
@@ -71,7 +71,7 @@ Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
 </details>
 
 
-### Machine Learning on the Cloud
+### <span style="color:grey;">Machine Learning on the Cloud</span>
 
 <details><summary>Trained and deployed XGBoost on Google AI Platform</summary>
 <ul>
@@ -82,7 +82,7 @@ Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
 </details>
 
 
-### Question Answering \[[Project Video](https://youtu.be/Ywuq0DIkklM)\]
+### <span style="color:grey;">Question Answering </span>\[[Project Video](https://youtu.be/Ywuq0DIkklM)\]
 
 <details><summary>Syntactic rule-based QA system</summary>
 <ul>
@@ -92,7 +92,7 @@ Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
 </ul>
 </details>
 
-### Question Answering System on SQuAD
+### <span style="color:grey;">Question Answering System on SQuAD</span>
 
 <details><summary>QA using Machine Learning algorithms</summary>
 <ul>
@@ -101,7 +101,7 @@ Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
 </ul>
 </details>
 
-### Rating Prediction for Amazon’s Product Reviews
+### <span style="color:grey;">Rating Prediction for Amazon’s Product Reviews</span>
 
 <details><summary>Logistic regression to predict product ratings</summary>
 <ul>
@@ -111,7 +111,7 @@ Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
 </ul>
 </details>
 
-### Neural Machine Translation (NMT) from English to Hindi
+### <span style="color:grey;">Neural Machine Translation (NMT) from English to Hindi</span>
 
 <details><summary>Seq2Seq model for NMT</summary>
 <ul>
@@ -120,7 +120,7 @@ Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
 </ul>
 </details>
 
-### Rideshare - A Cloud Based Application
+### <span style="color:grey;">Rideshare - A Cloud Based Application</span>
 
 <details><summary>Uber-like cab search application</summary>
 <ul>
@@ -129,7 +129,7 @@ Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
 </ul>
 </details>
 
-### Sports analytics with Hadoop
+### <span style="color:grey;">Sports analytics with Hadoop</span>
 
 <details><summary>PageRank on Hadoop</summary>
 <ul>
