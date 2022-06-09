@@ -6,7 +6,7 @@ title: Projects
 ### Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS \[[Project Poster](/assets/pdf/11737 Poster.pdf)\]
 
 <details><summary>Novel iterative back-translation style approach to augment data for Automatic Speech Recognition (ASR) and Text to Speech (TTS)
-for a truly low resource language Malayalam</summary>
+for Malayalam, a truly low resource language</summary>
 <ul>
 <li>Adapted back-translation style data augmentation technique to speech processing by leveraging ASR and TTS outputs to improve each other’s performance iteratively</li>
 <li>Output of ASR used to create a pseudo-parallel corpus as input to fine-tune TTS and vice versa</li>
@@ -20,25 +20,25 @@ for a truly low resource language Malayalam</summary>
 <details><summary>Automatic Speech Recognition for Malayalam on <b>espnet</b></summary>
 <ul>
 <li>Contributed to the <a href="https://github.com/espnet/espnet">espnet</a> open source toolkit by implementing Malayalam ASR with only around 6 hours of parallel speech-text data</li>
-<li>Achieved WER and CER of 39.2 and 10.4 respectively for a conformer base model</li>
-<li>Improved the WER and CER of the base model by 9.2% and 13.4% respectively by implementing a learnable linear fusion of spectrum based and HuBERT self-supervised learning features</li>
+<li>Achieved WER and CER of <b>39.2</b> and <b>10.4</b> respectively for a conformer base model</li>
+<li>Improved the WER and CER of the base model by <b>9.2%</b> and <b>13.4% </b> respectively by implementing a learnable linear fusion of spectrum based and HuBERT self-supervised learning features</li>
 <li>Successfully <a href="https://github.com/espnet/espnet/pull/4173">merged</a> ASR recipe into the espnet open-source toolkit</li>
 </ul>
 </details>
 
 ### Multilingual Translation
 
-<details><summary>Low resource NMT for Azerbaijani and Belarus to and from English</summary>
+<details><summary>NMT for low resource languages Azerbaijani and Belarus, to and from English</summary>
 <ul>
 <li>Improved baseline bilingual and multilingual models for low resource NMT with fairseq as the MT framework on top of PyTorch</li>
 <li>Implemented multiple methods such as data augmentation via back translation and cross-lingual transfer learning to improve multilingual transfer</li>
-<li>Achieved an increase in BLEU score by up to 3 points</li>
+<li>Achieved a 3 point increase in BLEU score</li>
 <li>Studied the effect of vocabulary size, and tokenization algorithms on the performance of NMT</li>
 </ul>
 </details>
 
 ### Multilingual Sequence labeling
-<details><summary>Bi-LSTM based POS Tagging</summary>
+<details><summary>Bi-LSTM based POS Tagging with mBERT and Conditional Random Fields</summary>
 <ul>
 <li>Enhanced the performance of a baseline bi-LSTM model written in PyTorch for the task of POS tagging by utilizing pre-trained multilingual BERT embeddings</li>
 <li>Gained 20.6% and 3% in accuracy for Tamil and English respectively</li>
@@ -59,9 +59,10 @@ for a truly low resource language Malayalam</summary>
 
 ### Twitter Analytics Web Service
 
-<details><summary>High-performance multi-tier web service on the cloud</summary>
+<details><summary>Fully managed high-performance multi-tier web service with Amazon EKS and RDS on the cloud. 
+Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
 <ul>
-<li>Worked in a team of 3 to build an application that recommends similar Twitter users </li>
+<li>Worked in a team of 3 to build a Vertx-based web application that recommends similar Twitter users </li>
 <li>Designed an efficient and fault-tolerant web tier consisting of 3 microservices using Amazon EKS with managed node groups to handle high loads (~tens of thousands of RPS) under a constrained budget</li>
 <li>Performed ETL on a large Twitter data set (~1 TB) using Apache Spark on the Azure Databricks platform and deployed storage tier on an AWS RDS MySQL instance</li>
 <li>Automated service deployment using eksctl, Terraform and helm charts</li>
