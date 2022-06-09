@@ -15,7 +15,7 @@ for Malayalam, a truly low resource language</summary>
 </ul>
 </details>
 
-### Multilingual Speech Recognition \[[Code](https://github.com/espnet/espnet/tree/master/egs2/ml_openslr63/asr1)\]
+### <span style="color:grey;"> Multilingual Speech Recognition </span> \[[Code](https://github.com/espnet/espnet/tree/master/egs2/ml_openslr63/asr1)\]
 
 <details><summary>Automatic Speech Recognition for Malayalam on <b>espnet</b></summary>
 <ul>
