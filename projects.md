@@ -49,7 +49,7 @@ for Malayalam, a truly low resource language</summary>
 
 ### <span style="color:grey;">Power plant Machine Learning Pipeline</span>
 
-<details><summary>End-to-end pipeline performing ETL, EDA and applied different machine learning algorithms to solve 
+<details><summary>End-to-end pipeline performing ETL, EDA and ML model tuning and evaluation to solve 
 a supervised regression problem on a real-world dataset of sensor readings from a natural gas-fired power generation 
 plant to accurately predict power output given a set of environmental readings
 </summary>
