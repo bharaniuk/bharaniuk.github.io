@@ -4,12 +4,12 @@ title: Internships
 ---
 
 ### Data Science Intern
-#### Cognistx, Pittsburgh
+#### <span style="color:grey;">Cognistx, Pittsburgh</span>
 
 - Working on the SQUARE product
 
 ### Technical Undergraduate Intern
-#### AppDynamics, Cisco Systems (India) Private Limited
+#### <span style="color:grey;">AppDynamics, Cisco Systems (India) Private Limited</span>
 
 - Developed Component Tests for OpenTelemetry supported agent using JUnit 
 - Created a library to dynamically alter agent configurations. Written in Java, it uses SnakeYAML to construct
@@ -19,7 +19,7 @@ bugs during development
 
 
 ### Research Intern
-#### Centre for Cloud Computing and Big Data, PES University
+#### <span style="color:grey;">Centre for Cloud Computing and Big Data, PES University</span>
 
 - Examined DeathStarBench and TeaStore microservices to identify performance bottlenecks responsible for
 reduced efficiency of microservices based applications 
