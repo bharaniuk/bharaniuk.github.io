@@ -3,7 +3,7 @@ layout: home
 title: Hi, I'm Bharani!
 ---
 I am a graduate student in the [Master of Computational Data Science (MCDS)](https://mcds.cs.cmu.edu/) program at the 
-[Language Technologies Institute](https://www.lti.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/).
+[School of Computer Science](https://www.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/).
 I am currently interning at [Cognistx](https://www.cognistx.com/) as a Data Science intern. Prior to joining CMU, I completed my under-graduation from [PES University](https://pes.edu/), India. 
 
 I will be graduating from CMU in December 2022, and I am actively looking for full time roles in the fields of Data Science, Machine Learning 
