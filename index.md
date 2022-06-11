@@ -6,13 +6,9 @@ I am a graduate student in the [Master of Computational Data Science (MCDS)](htt
 [School of Computer Science](https://www.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/).
 I am currently interning at [Cognistx](https://www.cognistx.com/) as a Data Science intern. Prior to joining CMU, I completed my under-graduation from [PES University](https://pes.edu/), India. 
 
-I will be graduating from CMU in December 2022, and I am actively looking for full time roles in the fields of Data Science, Machine Learning 
-and Software Engineering starting early 2023.
+I will be graduating from CMU in December 2022, and am actively seeking full time roles in the fields of Data Science, Machine Learning and Software Engineering.
 
-My interests lie in leveraging the power of NLP, ML and Data Science in general to tap into the vast potential that data has to offer 
-to revolutionize business, science, and the quality of life by building technologies that positively impacts the lives of people around the world!
-
-
+I am passionate about leveraging the power of NLP, ML and Data Science in general, to tap into the vast potential of data in revolutionising businesses, science, and everyday lives, by building technologies that positively impact the world!
 
 
 
