@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-### <span style="color:grey;">Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS</span> \[[Project Poster](/assets/pdf/11737 Poster.pdf)\]
+### <span style="color:grey;">Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS</span> \[[Project Poster](/assets/pdf/11737 Poster.pdf){:target="_blank"}\]
 
 <details><summary>Novel iterative back-translation style approach to augment data for Automatic Speech Recognition (ASR) and Text to Speech (TTS)
 for Malayalam, a truly low resource language</summary>
@@ -15,7 +15,7 @@ for Malayalam, a truly low resource language</summary>
 </ul>
 </details>
 
-### <span style="color:grey;"> Multilingual Speech Recognition </span> \[[Code](https://github.com/espnet/espnet/tree/master/egs2/ml_openslr63/asr1)\]
+### <span style="color:grey;"> Multilingual Speech Recognition </span> \[[Code](https://github.com/espnet/espnet/tree/master/egs2/ml_openslr63/asr1){:target="_blank"}\]
 
 <details><summary>Automatic Speech Recognition for Malayalam on <b>espnet</b></summary>
 <ul>
@@ -60,7 +60,7 @@ output given a set of environmental readings
 </ul>
 </details>
 
-### <span style="color:grey;"> COVID-19 Data Dashboard </span> \[[Code](https://github.com/bharaniuk/final-project-dunder-mifflin-paper-company)\]
+### <span style="color:grey;"> COVID-19 Data Dashboard </span> \[[Code](https://github.com/bharaniuk/final-project-dunder-mifflin-paper-company){:target="_blank"}\]
 
 <details><summary>Streamlit web-app powered by Altair and Python</summary>
 <ul>
@@ -96,7 +96,7 @@ Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
 </details>
 
 
-### <span style="color:grey;">Question Answering </span>\[[Project Video](https://youtu.be/Ywuq0DIkklM)\]
+### <span style="color:grey;">Question Answering </span>\[[Project Video](https://youtu.be/Ywuq0DIkklM){:target="_blank"}\]
 
 <details><summary>Syntactic rule-based QA system</summary>
 <ul>
