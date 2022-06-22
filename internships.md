@@ -19,7 +19,7 @@ bugs during development
 
 
 ### Research Intern
-#### <span style="color:grey;">Centre for Cloud Computing and Big Data, Bangalore, India</span><span style="float:right;">June 2019 - December 2020</span>
+#### <span style="color:grey;">Centre for Cloud Computing & Big Data, Bangalore, India</span><span style="float:right;">June 2019 - December 2020</span>
 
 - Examined DeathStarBench and TeaStore microservices to identify performance bottlenecks responsible for
 reduced efficiency of microservices based applications 
