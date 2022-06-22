@@ -4,12 +4,12 @@ title: Internships
 ---
 
 ### Data Science Intern
-#### <span style="color:grey;">Cognistx, Pittsburgh</span> <span style="float:right;">May 2022 - Present</span>
+#### <span style="color:grey;">Cognistx, Pittsburgh, PA</span> <span style="float:right;">May 2022 - Present</span>
 
 - Working on the [SQUARE](https://www.cognistx.com/square){:target="_blank"} product
 
 ### Technical Undergraduate Intern
-#### <span style="color:grey;">AppDynamics, Cisco Systems (India) Private Limited</span>
+#### <span style="color:grey;">AppDynamics, Bangalore, India</span> <span style="float:right;">January - May 2021</span>
 
 - Developed Component Tests for OpenTelemetry supported agent using JUnit 
 - Created a library to dynamically alter agent configurations. Written in Java, it uses SnakeYAML to construct
@@ -19,7 +19,7 @@ bugs during development
 
 
 ### Research Intern
-#### <span style="color:grey;">Centre for Cloud Computing and Big Data, PES University</span>
+#### <span style="color:grey;">Centre for Cloud Computing and Big Data, Bangalore, India</span><span style="float:right;">June 2019 - December 2020</span>
 
 - Examined DeathStarBench and TeaStore microservices to identify performance bottlenecks responsible for
 reduced efficiency of microservices based applications 
