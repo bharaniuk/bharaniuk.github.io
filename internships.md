@@ -4,7 +4,7 @@ title: Internships
 ---
 
 ### Data Science Intern
-#### <span style="color:grey;">Cognistx, Pittsburgh</span> <br><br> May 2022 - Present
+#### <span style="color:grey;">Cognistx, Pittsburgh</span> May 2022 - Present
 
 - Working on the [SQUARE](https://www.cognistx.com/square){:target="_blank"} product
 
