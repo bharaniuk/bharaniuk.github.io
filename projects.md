@@ -71,7 +71,7 @@ output given a set of environmental readings
 </details>
 
 
-### 2021
+### <center><span><u>2021</u></span></center>
 
 ### <span style="color:grey;">Twitter Analytics Web Service</span>
 
@@ -127,7 +127,7 @@ Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
 </ul>
 </details>
 
-### 2020 
+### <center><span><u>2020</u></span></center>
 
 ### <span style="color:grey;">Neural Machine Translation (NMT) from English to Hindi</span>
 
