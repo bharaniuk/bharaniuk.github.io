@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-## <span style="float:center;"><u>2022</u></span>
+## <center><span><u>2022</u></span></center>
 ### <span style="color:grey;">Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS</span> \[[Project Poster](/assets/pdf/11737 Poster.pdf){:target="_blank"}\]
 
 <details><summary>Novel iterative back-translation style approach to augment data for Automatic Speech Recognition (ASR) and Text to Speech (TTS)
