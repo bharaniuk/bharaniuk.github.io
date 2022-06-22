@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-
+## 2022
 ### <span style="color:grey;">Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS</span> \[[Project Poster](/assets/pdf/11737 Poster.pdf){:target="_blank"}\]
 
 <details><summary>Novel iterative back-translation style approach to augment data for Automatic Speech Recognition (ASR) and Text to Speech (TTS)
@@ -71,6 +71,8 @@ output given a set of environmental readings
 </details>
 
 
+### 2021
+
 ### <span style="color:grey;">Twitter Analytics Web Service</span>
 
 <details><summary>Fully managed high-performance multi-tier web service with Amazon EKS and RDS. 
@@ -124,6 +126,8 @@ Performed ETL using Spark to reduce 1TB Twitter data to 60GB</summary>
 <li>Final model achieved an accuracy of 71% and deployed to public endpoint on Microsoft Azure</li>
 </ul>
 </details>
+
+### 2020 
 
 ### <span style="color:grey;">Neural Machine Translation (NMT) from English to Hindi</span>
 
