@@ -3,6 +3,19 @@ layout: page
 title: Projects
 ---
 ## <center><span><u>2022</u></span></center>
+
+
+### <span style="color:grey;">SimBot Dataset Collection: Embodied Dialogue Task</span> \[[Project Presentation](https://youtu.be/IXIm1dK_vFI){:target="_blank"}\]
+<details><summary>Building a platform for multi-modal data collection to build a novel dataset that helps embodied goal oriented conversational agents develop context-awareness of physically-situated dialogue and the ability to adapt to language variation</summary>
+<ul>
+<li></li>
+<li></li>
+<li>/li>
+<li></li>
+</ul>
+</details>
+
+
 ### <span style="color:grey;">Iterative Back-Translation-Style Data Augmentation for Low Resource ASR and TTS</span> \[[Project Poster](/assets/pdf/11737 Poster.pdf){:target="_blank"}\]
 
 <details><summary>Novel iterative back-translation style approach to augment data for Automatic Speech Recognition (ASR) and Text to Speech (TTS)

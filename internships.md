@@ -3,7 +3,7 @@ layout: page
 title: Internships
 ---
 
-### Data Science Intern
+### Data Scientist Intern
 #### <span style="color:grey;">Cognistx, Pittsburgh, PA</span> <span style="float:right;">May 2022 - Present</span>
 
 - Building a scalable, distributed, dynamic and robust web crawler for [SQUARE](https://www.cognistx.com/square){:target="_blank"}, the in-house Question Answering product at Cognistx.
