@@ -4,9 +4,9 @@ title: Internships
 ---
 
 ### Data Science Intern
-#### <span style="color:grey;">Cognistx, Pittsburgh</span> <span align="right;"> &emsp; May 2022 - Present</span>
+#### <span style="color:grey;">Cognistx, Pittsburgh</span> <span align="right;"> &emsp;&emsp;&emsp;&emsp; May 2022 - Present</span>
 
-- Working on the SQUARE product
+- Working on the [SQUARE](https://www.cognistx.com/square){:target="_blank"} product
 
 ### Technical Undergraduate Intern
 #### <span style="color:grey;">AppDynamics, Cisco Systems (India) Private Limited</span>
