@@ -10,7 +10,7 @@ title: Projects
 <ul>
 <li>We are working on building a data collection platform that enables crowd-sourcing of multi-modal data from experiments hosted in a simulation environment</li>
 <li>We will collect and release a novel dataset that addresses limitations of existing datasets to build natural embodied conversational agents such as inability to dynamically ground utterance, lack of ambiguity and clarification in dialogue</li>
-<li>This work will enable the community to develop better models and also provide researchers and developers an extensible platform to collect multi-modal data in a seamless manner for building embodied AI agents</li>
+<li>This work will enable the community to develop better models for conversational agents and also provide researchers and developers with an extensible platform to collect multi-modal data in a seamless manner for building embodied AI agents</li>
 </ul>
 </details>
 
