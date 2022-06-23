@@ -6,7 +6,7 @@ title: Projects
 
 
 ### <span style="color:grey;">SimBot Dataset Collection: Embodied Dialogue Task</span> \[[Project Presentation](https://youtu.be/IXIm1dK_vFI){:target="_blank"}\]
-<details><summary>A platform for multi-modal data collection to build a novel dataset that empowers embodied goal oriented conversational agents to develop context-awareness of physically-situated dialogue and the ability to adapt to language variation</summary>
+<details><summary>A platform for multi-modal data collection to build a novel dataset that empowers embodied goal oriented conversational agents to develop context-awareness of physically-situated dialogue and the ability to adapt to language variation [In progress]</summary>
 <ul>
 <li>We are working on building a data collection platform that enables crowd-sourcing of multi-modal data from experiments hosted in a simulation environment</li>
 <li>We will collect and release a novel dataset that addresses limitations of existing datasets to build natural embodied conversational agents such as inability to dynamically ground utterance, lack of ambiguity and clarification in dialogue</li>
