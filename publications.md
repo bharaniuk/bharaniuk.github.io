@@ -2,10 +2,7 @@
 layout: page
 title: Publications
 ---
-
-### [A Deep Learning Approach for Speed Bump and Pothole Detection Using Sensor Data](https://link.springer.com/chapter/10.1007/978-981-16-1338-8_7){:target="_blank"}  
-**Bharani Ujjaini Kempaiah**, Ruben John Mampilli and Goutham K.S.  
-*In proceedings of 6th International Conference on Emerging Research in Computing, Information, Communication and Applications (ERCICA 2020)*
+## <center><span><u>2021</u></span></center>
 
 ### [Energy efficient VM scheduling in Reservation supported Cloud Data Centers under availability constraints](https://ieeexplore.ieee.org/abstract/document/9498421){:target="_blank"}  
 Bhvaya Charan, Goutham K.S., Ruben John Mampilli, **Bharani Ujjaini Kempaiah** and Phalachandra H. L.  
@@ -14,6 +11,12 @@ Bhvaya Charan, Goutham K.S., Ruben John Mampilli, **Bharani Ujjaini Kempaiah** a
 ### [Scheduling Microservice Containers on Large Core Machines Through Placement and Coalescing](https://link.springer.com/chapter/10.1007/978-3-030-88224-2_5){:target="_blank"}  
 Vishal Rao, Vishnu Singh, Goutham K. S., **Bharani Ujjaini Kempaiah**, Ruben John Mampilli, Subramaniam Kalambur and Dinkar Sitaram  
 *In proceedings of 25th workshop on Job Scheduling Strategies for Parallel Processing (JSSPP 2021)*
+
+## <center><span><u>2020</u></span></center>
+
+### [A Deep Learning Approach for Speed Bump and Pothole Detection Using Sensor Data](https://link.springer.com/chapter/10.1007/978-981-16-1338-8_7){:target="_blank"}  
+**Bharani Ujjaini Kempaiah**, Ruben John Mampilli and Goutham K.S.  
+*In proceedings of 6th International Conference on Emerging Research in Computing, Information, Communication and Applications (ERCICA 2020)*
 
 ### [Performance sensitivity of Operating System parameters in Microservice environments](https://ieeexplore.ieee.org/abstract/document/9499326){:target="_blank"}   
 Goutham K. S., **Bharani Ujjaini Kempaiah**, Ruben John Mampilli and Subramaniam Kalambur  
