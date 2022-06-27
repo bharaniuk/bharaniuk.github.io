@@ -6,8 +6,10 @@ title: Internships
 ### Data Scientist Intern
 #### <span style="color:grey;">Cognistx, Pittsburgh, PA</span> <span style="float:right;">May 2022 - Present</span>
 
-- Building a scalable, distributed, dynamic and robust web crawler for [SQUARE](https://www.cognistx.com/square){:target="_blank"}, the in-house Question Answering product at Cognistx.
-- Automated the deployment of crawler infrastructure on AWS using AWS Lambda, SQS, DynamoDB and S3 services
+- Leading design and development of scalable web crawler, capable of crawling web pages with up to ~100K links and supports deduplication of embedded documents
+- Implemented crawl component with AWS SQS URL frontier triggering AWS Lambda based recursive crawls while tracking crawl history in DynamoDB
+- Developed decoupled AWS Lambda based downloader component to concurrently download crawled URLs into S3
+- Projected to enhance domain generalization and increase downstream QA model performance across various domains
 
 ### Technical Undergraduate Intern
 #### <span style="color:grey;">AppDynamics, Bangalore, India</span> <span style="float:right;">January - May 2021</span>
