@@ -4,7 +4,7 @@ title: Internships
 ---
 
 ### Data Scientist Intern
-#### <span style="color:grey;">Cognistx, Pittsburgh, PA</span> <span style="float:right;">May 2022 - Present</span>
+#### <span style="color:grey;">Cognistx, Pittsburgh, PA</span> <span style="float:right;">May 2022 - August 2022</span>
 
 - Leading design and development of scalable web crawler, capable of crawling web pages with up to ~100K links and supports deduplication of embedded documents
 - Implemented crawl component with AWS SQS URL frontier triggering AWS Lambda based recursive crawls while tracking crawl history in DynamoDB
