@@ -5,12 +5,27 @@ title: Projects
 ## <center><span><u>2022</u></span></center>
 
 
-### <span style="color:grey;">SimBot Dataset Collection: Embodied Dialogue Task</span> \[[Project Presentation](https://youtu.be/IXIm1dK_vFI){:target="_blank"}\]
-<details><summary>A platform for multi-modal data collection to build a novel dataset that empowers embodied goal oriented conversational agents to develop context-awareness of physically-situated dialogue and the ability to adapt to language variation [In progress]</summary>
+### <span style="color:grey;">Denoised smoothing as an adversarial defense for ASR</span> \[[Project Presentation](https://youtu.be/Z0u7yJv4ty0){:target="_blank"}\]
+<details><summary> Experimented with Denoising Diffusion Probabilistic models (DDPMs) to denoise smoothed audio input in order to recover the original audio, to achieve better-quality ASR transcriptions while providing robustness to adversarial attacks</summary>
 <ul>
-<li>We are working on building a data collection platform that enables crowd-sourcing of multi-modal data from experiments hosted in a simulation environment</li>
-<li>We will collect and release a novel dataset that addresses limitations of existing datasets to build natural embodied conversational agents such as inability to dynamically ground utterance, lack of ambiguity and clarification in dialogue</li>
-<li>This work will enable the community to develop better models for conversational agents and also provide researchers and developers with an extensible platform to collect multi-modal data in a seamless manner for building embodied AI agents</li>
+<li>Evaluated effectiveness of DDPMs as defense against adversarial attacks on ASR systems</li>
+<li>Achieved 40% improvement in WER and better robustness compared to sequential randomised smoothing on LibriSpeech dataset</li>
+</ul>
+</details>
+
+### <span style="color:grey;">ALFRED-Speech: An Embodied Vision-Audio-Navigation Task</span> \[[Project Presentation](https://youtu.be/Fs4plsjD8yU){:target="_blank"}\]
+<details><summary>A novel dataset that empowers embodied goal oriented conversational agents to develop context-awareness of physically-situated dialogue and the ability to adapt to language variation [In progress]</summary>
+<ul>
+<li>Developed flask based web-app to crowdsource audio annotations for ALFRED benchmark on Amazon Mechanical Turk to create a first of a kind dataset to enable currently “deaf” embodied agents to learn to navigate by hearing and seeing</li>
+<li>Awarded Best Solution Capstone project and is currently enabling the collection of 25K+ audio annotations</li>
+</ul>
+</details>
+
+### <span style="color:grey;">Face Classification & Verification using Convolutional Neural Networks</span>
+<details><summary>CNN-based architectures for Face Classification & Verification</summary>
+<ul>
+<li>Implemented and trained ResNet-34 and ConvNeXt-T models for face classification on subset of VGGFace2 dataset using image augmentation techniques and Stochastic Depth, achieving an accuracy of 94%</li>
+<li>Finetuned ConvNeXt-T model with center loss for face verification and achieved accuracy of 66%</li>
 </ul>
 </details>
 
