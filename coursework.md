@@ -3,6 +3,11 @@ layout: page
 title: Coursework
 ---
 
+### Fall 2022
+- [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F22/index.html){:target="_blank"}
+- 11-632 Data Science Capstone
+- 11-635 Capstone Research
+
 ### Spring 2022
 - [11-737 Multilingual NLP](http://phontron.com/class/multiling2022/){:target="_blank"}
 - [10-605 ML with Large Datasets](https://10605.github.io/){:target="_blank"}
